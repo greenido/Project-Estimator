@@ -2,8 +2,8 @@ import { useMemo, useState } from "react";
 import "./styles.css";
 
 const DEFAULT_developers = 2;
-const DEFAULT_dev_per_hour = 150;
-const DEFAULT_hours = 10;
+const DEFAULT_dev_per_hour = 200;
+const DEFAULT_hours = 30;
 
 //
 //
@@ -40,7 +40,7 @@ export default function App() {
   const formatter = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
-    minimumFractionDigits: 0
+    minimumFractionDigits: 0,
   });
 
   return (
