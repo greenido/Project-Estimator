@@ -1,2 +1,2 @@
-# Project-Estimator
+# calculateBMI
 Created with CodeSandbox
