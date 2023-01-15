@@ -1,2 +1,4 @@
-# calculateBMI
-Created with CodeSandbox
+# Project-Estimator
+
+A simple Software project estimation calculator
+
