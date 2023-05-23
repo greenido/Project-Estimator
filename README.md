@@ -3,7 +3,7 @@
 A simple project estimation calculator for software stuff
 
 ## 🎉 Demo
-Live version: https://mojgk0.csb.app/ or https://greenido.github.io/csb-mojgk0/
+Live version: https://mojgk0.csb.app/
 
 ## 📝 Code
 https://codesandbox.io/s/mojgk0
